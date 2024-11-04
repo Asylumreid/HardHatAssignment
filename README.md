@@ -6,6 +6,10 @@ Here’s the README in Markdown format:
 
 Project encompasses Task 1 and Task 2 on local network.
 
+Things to work on:
+Function modifier (ownerOnly and etc)
+Able to deploy on sepolia
+
 ## Features
 
 - **Token Transfer**: Users can transfer tokens between accounts.
