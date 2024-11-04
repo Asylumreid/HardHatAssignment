@@ -2,9 +2,9 @@ Here’s the README in Markdown format:
 
 ---
 
-# My Hardhat Token Project
+# Assignment
 
-A Solidity-based token contract with deposit and withdrawal functionalities. This project demonstrates the basic setup of a token smart contract, including features for transferring, depositing, and withdrawing tokens with interest.
+Project encompasses Task 1 and Task 2 on local network.
 
 ## Features
 
@@ -60,6 +60,14 @@ Run the test suite to verify the contract functionality:
 
 ```bash
 npx hardhat test
+```
+
+### 6. Deploy on Local
+
+Run the test suite to verify the contract functionality:
+
+```bash
+npx hardhat run scripts/deploy.js --network hardhat
 ```
 
 ## Project Structure
